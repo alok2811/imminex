@@ -1,0 +1,1 @@
+enum UserLoginEnum { phone, email }  
